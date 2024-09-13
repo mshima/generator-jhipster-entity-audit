@@ -52,6 +52,7 @@
     "jhipsterVersion": "7.9.2",
     "js": true,
     "localBlueprint": false,
+    "packageJsonType": "module",
     "prettierDefaultIndent": 2,
     "projectName": "Entity Audit Application",
     "sampleWritten": true,

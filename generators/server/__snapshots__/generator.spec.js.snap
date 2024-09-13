@@ -353,7 +353,7 @@ exports[`SubGenerator server of entity-audit JHipster blueprint > run > should s
   "src/main/resources/config/liquibase/changelog/00000000000000_initial_schema.xml": {
     "stateCleared": "modified",
   },
-  "src/main/resources/config/liquibase/changelog/20220101000100_added_entity_EntityAuditEvent.xml": {
+  "src/main/resources/config/liquibase/changelog/20220101000100.xml": {
     "stateCleared": "modified",
   },
   "src/main/resources/config/liquibase/data/authority.csv": {
